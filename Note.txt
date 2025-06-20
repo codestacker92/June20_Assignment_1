@@ -1,0 +1,7 @@
+git init
+git remote add origin (link)
+git pull origin main
+touch (anything) to creat file
+git add .
+git commit -m (title for file)
+git push -u origin main 
